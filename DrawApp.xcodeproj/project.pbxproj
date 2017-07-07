@@ -15,6 +15,32 @@
 		CB59A0761CA28C53003AB4B5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CB59A0741CA28C53003AB4B5 /* LaunchScreen.storyboard */; };
 		CB59A0811CA28C53003AB4B5 /* DrawAppTests.m in Sources */ = {isa = PBXBuildFile; fileRef = CB59A0801CA28C53003AB4B5 /* DrawAppTests.m */; };
 		CB59A08C1CA28C53003AB4B5 /* DrawAppUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = CB59A08B1CA28C53003AB4B5 /* DrawAppUITests.m */; };
+		CB59A0A51CA28D27003AB4B5 /* circle120.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CB59A09A1CA28D27003AB4B5 /* circle120.jpg */; };
+		CB59A0A61CA28D27003AB4B5 /* line01.png in Resources */ = {isa = PBXBuildFile; fileRef = CB59A09B1CA28D27003AB4B5 /* line01.png */; };
+		CB59A0A71CA28D27003AB4B5 /* plainicon.com-44043-16px.png in Resources */ = {isa = PBXBuildFile; fileRef = CB59A09C1CA28D27003AB4B5 /* plainicon.com-44043-16px.png */; };
+		CB59A0A81CA28D27003AB4B5 /* plainicon.com-44043-256px.png in Resources */ = {isa = PBXBuildFile; fileRef = CB59A09D1CA28D27003AB4B5 /* plainicon.com-44043-256px.png */; };
+		CB59A0A91CA28D27003AB4B5 /* rectangle120.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CB59A09E1CA28D27003AB4B5 /* rectangle120.jpg */; };
+		CB59A0AA1CA28D27003AB4B5 /* s00103.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CB59A09F1CA28D27003AB4B5 /* s00103.jpg */; };
+		CB59A0AB1CA28D27003AB4B5 /* square120.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CB59A0A01CA28D27003AB4B5 /* square120.jpg */; };
+		CB59A0AC1CA28D27003AB4B5 /* straight-lines-6.png in Resources */ = {isa = PBXBuildFile; fileRef = CB59A0A11CA28D27003AB4B5 /* straight-lines-6.png */; };
+		CB59A0AD1CA28D27003AB4B5 /* triangle120.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CB59A0A21CA28D27003AB4B5 /* triangle120.jpg */; };
+		CB59A0AE1CA28D27003AB4B5 /* y9lT4.png in Resources */ = {isa = PBXBuildFile; fileRef = CB59A0A31CA28D27003AB4B5 /* y9lT4.png */; };
+		CB59A0AF1CA28D27003AB4B5 /* ye3TY.png in Resources */ = {isa = PBXBuildFile; fileRef = CB59A0A41CA28D27003AB4B5 /* ye3TY.png */; };
+		CB82F8AA1CC71FC800814712 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = CB82F8A91CC71FC800814712 /* GoogleService-Info.plist */; };
+		CB9BF7E51CA9FC8000C976E0 /* pencil.m in Sources */ = {isa = PBXBuildFile; fileRef = CB9BF7E41CA9FC8000C976E0 /* pencil.m */; };
+		CB9BF7E81CAA031100C976E0 /* EclipseView.m in Sources */ = {isa = PBXBuildFile; fileRef = CB9BF7E71CAA031100C976E0 /* EclipseView.m */; };
+		CB9BF7EA1CAA07F000C976E0 /* undo-6.png in Resources */ = {isa = PBXBuildFile; fileRef = CB9BF7E91CAA07F000C976E0 /* undo-6.png */; };
+		CB9BF7ED1CAA151300C976E0 /* SquareView.m in Sources */ = {isa = PBXBuildFile; fileRef = CB9BF7EC1CAA151300C976E0 /* SquareView.m */; };
+		CB9BF7F01CAA154F00C976E0 /* rectangle.m in Sources */ = {isa = PBXBuildFile; fileRef = CB9BF7EF1CAA154F00C976E0 /* rectangle.m */; };
+		CB9BF7F31CAA1E4E00C976E0 /* TriangleView.m in Sources */ = {isa = PBXBuildFile; fileRef = CB9BF7F21CAA1E4E00C976E0 /* TriangleView.m */; };
+		CB9BF7F61CAA9AD700C976E0 /* line.m in Sources */ = {isa = PBXBuildFile; fileRef = CB9BF7F51CAA9AD700C976E0 /* line.m */; };
+		CBFB6A651CB28F6000F62F4A /* images.png in Resources */ = {isa = PBXBuildFile; fileRef = CBFB6A631CB28F6000F62F4A /* images.png */; };
+		CBFB6A661CB28F6000F62F4A /* save.png in Resources */ = {isa = PBXBuildFile; fileRef = CBFB6A641CB28F6000F62F4A /* save.png */; };
+		CBFB6A6A1CB2C87200F62F4A /* line1.png in Resources */ = {isa = PBXBuildFile; fileRef = CBFB6A671CB2C87200F62F4A /* line1.png */; };
+		CBFB6A6B1CB2C87200F62F4A /* line2.png in Resources */ = {isa = PBXBuildFile; fileRef = CBFB6A681CB2C87200F62F4A /* line2.png */; };
+		CBFB6A6C1CB2C87200F62F4A /* line3.png in Resources */ = {isa = PBXBuildFile; fileRef = CBFB6A691CB2C87200F62F4A /* line3.png */; };
+		CBFB6A6E1CB3D80D00F62F4A /* background.png in Resources */ = {isa = PBXBuildFile; fileRef = CBFB6A6D1CB3D80D00F62F4A /* background.png */; };
+		CDD3572A6ED03EA9BA827983 /* libPods-DrawApp.a in Frameworks */ = {isa = PBXBuildFile; fileRef = A01D75B05AA521D743E16D25 /* libPods-DrawApp.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,6 +61,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		92586E65CD6F2F46AA7D5203 /* Pods-DrawApp.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DrawApp.release.xcconfig"; path = "Pods/Target Support Files/Pods-DrawApp/Pods-DrawApp.release.xcconfig"; sourceTree = "<group>"; };
+		A01D75B05AA521D743E16D25 /* libPods-DrawApp.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-DrawApp.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		BBE4995F079CDE631D62E5F5 /* Pods-DrawApp.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DrawApp.debug.xcconfig"; path = "Pods/Target Support Files/Pods-DrawApp/Pods-DrawApp.debug.xcconfig"; sourceTree = "<group>"; };
 		CB59A0631CA28C53003AB4B5 /* DrawApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DrawApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CB59A0671CA28C53003AB4B5 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		CB59A0691CA28C53003AB4B5 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -51,6 +80,37 @@
 		CB59A0871CA28C53003AB4B5 /* DrawAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DrawAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		CB59A08B1CA28C53003AB4B5 /* DrawAppUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DrawAppUITests.m; sourceTree = "<group>"; };
 		CB59A08D1CA28C53003AB4B5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CB59A09A1CA28D27003AB4B5 /* circle120.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = circle120.jpg; sourceTree = "<group>"; };
+		CB59A09B1CA28D27003AB4B5 /* line01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = line01.png; sourceTree = "<group>"; };
+		CB59A09C1CA28D27003AB4B5 /* plainicon.com-44043-16px.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "plainicon.com-44043-16px.png"; sourceTree = "<group>"; };
+		CB59A09D1CA28D27003AB4B5 /* plainicon.com-44043-256px.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "plainicon.com-44043-256px.png"; sourceTree = "<group>"; };
+		CB59A09E1CA28D27003AB4B5 /* rectangle120.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = rectangle120.jpg; sourceTree = "<group>"; };
+		CB59A09F1CA28D27003AB4B5 /* s00103.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = s00103.jpg; sourceTree = "<group>"; };
+		CB59A0A01CA28D27003AB4B5 /* square120.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = square120.jpg; sourceTree = "<group>"; };
+		CB59A0A11CA28D27003AB4B5 /* straight-lines-6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "straight-lines-6.png"; sourceTree = "<group>"; };
+		CB59A0A21CA28D27003AB4B5 /* triangle120.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = triangle120.jpg; sourceTree = "<group>"; };
+		CB59A0A31CA28D27003AB4B5 /* y9lT4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = y9lT4.png; sourceTree = "<group>"; };
+		CB59A0A41CA28D27003AB4B5 /* ye3TY.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ye3TY.png; sourceTree = "<group>"; };
+		CB82F8A91CC71FC800814712 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		CB9BF7E31CA9FC8000C976E0 /* pencil.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = pencil.h; sourceTree = "<group>"; };
+		CB9BF7E41CA9FC8000C976E0 /* pencil.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = pencil.m; sourceTree = "<group>"; };
+		CB9BF7E61CAA031100C976E0 /* EclipseView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EclipseView.h; sourceTree = "<group>"; };
+		CB9BF7E71CAA031100C976E0 /* EclipseView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EclipseView.m; sourceTree = "<group>"; };
+		CB9BF7E91CAA07F000C976E0 /* undo-6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "undo-6.png"; sourceTree = "<group>"; };
+		CB9BF7EB1CAA151300C976E0 /* SquareView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SquareView.h; sourceTree = "<group>"; };
+		CB9BF7EC1CAA151300C976E0 /* SquareView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SquareView.m; sourceTree = "<group>"; };
+		CB9BF7EE1CAA154F00C976E0 /* rectangle.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = rectangle.h; sourceTree = "<group>"; };
+		CB9BF7EF1CAA154F00C976E0 /* rectangle.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = rectangle.m; sourceTree = "<group>"; };
+		CB9BF7F11CAA1E4E00C976E0 /* TriangleView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TriangleView.h; sourceTree = "<group>"; };
+		CB9BF7F21CAA1E4E00C976E0 /* TriangleView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TriangleView.m; sourceTree = "<group>"; };
+		CB9BF7F41CAA9AD700C976E0 /* line.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = line.h; sourceTree = "<group>"; };
+		CB9BF7F51CAA9AD700C976E0 /* line.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = line.m; sourceTree = "<group>"; };
+		CBFB6A631CB28F6000F62F4A /* images.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = images.png; sourceTree = "<group>"; };
+		CBFB6A641CB28F6000F62F4A /* save.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = save.png; sourceTree = "<group>"; };
+		CBFB6A671CB2C87200F62F4A /* line1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = line1.png; sourceTree = "<group>"; };
+		CBFB6A681CB2C87200F62F4A /* line2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = line2.png; sourceTree = "<group>"; };
+		CBFB6A691CB2C87200F62F4A /* line3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = line3.png; sourceTree = "<group>"; };
+		CBFB6A6D1CB3D80D00F62F4A /* background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = background.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +118,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CDD3572A6ED03EA9BA827983 /* libPods-DrawApp.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -78,6 +139,23 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		57AA98A944CF66BF98965DB8 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				A01D75B05AA521D743E16D25 /* libPods-DrawApp.a */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		C438E6394DC446F27F7BB054 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				BBE4995F079CDE631D62E5F5 /* Pods-DrawApp.debug.xcconfig */,
+				92586E65CD6F2F46AA7D5203 /* Pods-DrawApp.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
 		CB59A05A1CA28C53003AB4B5 = {
 			isa = PBXGroup;
 			children = (
@@ -85,6 +163,8 @@
 				CB59A07F1CA28C53003AB4B5 /* DrawAppTests */,
 				CB59A08A1CA28C53003AB4B5 /* DrawAppUITests */,
 				CB59A0641CA28C53003AB4B5 /* Products */,
+				C438E6394DC446F27F7BB054 /* Pods */,
+				57AA98A944CF66BF98965DB8 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -106,6 +186,9 @@
 				CB59A06C1CA28C53003AB4B5 /* ViewController.h */,
 				CB59A06D1CA28C53003AB4B5 /* ViewController.m */,
 				CB59A06F1CA28C53003AB4B5 /* Main.storyboard */,
+				CB82F8A91CC71FC800814712 /* GoogleService-Info.plist */,
+				CB9BF7E21CA9FB1000C976E0 /* Drawing */,
+				CB59A0991CA28D27003AB4B5 /* Image */,
 				CB59A0721CA28C53003AB4B5 /* Assets.xcassets */,
 				CB59A0741CA28C53003AB4B5 /* LaunchScreen.storyboard */,
 				CB59A0771CA28C53003AB4B5 /* Info.plist */,
@@ -140,6 +223,50 @@
 			path = DrawAppUITests;
 			sourceTree = "<group>";
 		};
+		CB59A0991CA28D27003AB4B5 /* Image */ = {
+			isa = PBXGroup;
+			children = (
+				CBFB6A6D1CB3D80D00F62F4A /* background.png */,
+				CBFB6A671CB2C87200F62F4A /* line1.png */,
+				CBFB6A681CB2C87200F62F4A /* line2.png */,
+				CBFB6A691CB2C87200F62F4A /* line3.png */,
+				CB9BF7E91CAA07F000C976E0 /* undo-6.png */,
+				CB59A09A1CA28D27003AB4B5 /* circle120.jpg */,
+				CB59A09B1CA28D27003AB4B5 /* line01.png */,
+				CB59A09C1CA28D27003AB4B5 /* plainicon.com-44043-16px.png */,
+				CB59A09D1CA28D27003AB4B5 /* plainicon.com-44043-256px.png */,
+				CB59A09E1CA28D27003AB4B5 /* rectangle120.jpg */,
+				CB59A09F1CA28D27003AB4B5 /* s00103.jpg */,
+				CB59A0A01CA28D27003AB4B5 /* square120.jpg */,
+				CB59A0A11CA28D27003AB4B5 /* straight-lines-6.png */,
+				CB59A0A21CA28D27003AB4B5 /* triangle120.jpg */,
+				CB59A0A31CA28D27003AB4B5 /* y9lT4.png */,
+				CBFB6A631CB28F6000F62F4A /* images.png */,
+				CBFB6A641CB28F6000F62F4A /* save.png */,
+				CB59A0A41CA28D27003AB4B5 /* ye3TY.png */,
+			);
+			path = Image;
+			sourceTree = "<group>";
+		};
+		CB9BF7E21CA9FB1000C976E0 /* Drawing */ = {
+			isa = PBXGroup;
+			children = (
+				CB9BF7E31CA9FC8000C976E0 /* pencil.h */,
+				CB9BF7E41CA9FC8000C976E0 /* pencil.m */,
+				CB9BF7F41CAA9AD700C976E0 /* line.h */,
+				CB9BF7F51CAA9AD700C976E0 /* line.m */,
+				CB9BF7F11CAA1E4E00C976E0 /* TriangleView.h */,
+				CB9BF7F21CAA1E4E00C976E0 /* TriangleView.m */,
+				CB9BF7EB1CAA151300C976E0 /* SquareView.h */,
+				CB9BF7EC1CAA151300C976E0 /* SquareView.m */,
+				CB9BF7E61CAA031100C976E0 /* EclipseView.h */,
+				CB9BF7E71CAA031100C976E0 /* EclipseView.m */,
+				CB9BF7EE1CAA154F00C976E0 /* rectangle.h */,
+				CB9BF7EF1CAA154F00C976E0 /* rectangle.m */,
+			);
+			name = Drawing;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -147,9 +274,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = CB59A0901CA28C53003AB4B5 /* Build configuration list for PBXNativeTarget "DrawApp" */;
 			buildPhases = (
+				FACD19D934A0E01493413334 /* Check Pods Manifest.lock */,
 				CB59A05F1CA28C53003AB4B5 /* Sources */,
 				CB59A0601CA28C53003AB4B5 /* Frameworks */,
 				CB59A0611CA28C53003AB4B5 /* Resources */,
+				4BC357844917C2FFBCDFA9F3 /* Embed Pods Frameworks */,
+				5FE98086FE2F70F5E9A44B9F /* Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -246,9 +376,28 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CB59A0A61CA28D27003AB4B5 /* line01.png in Resources */,
 				CB59A0761CA28C53003AB4B5 /* LaunchScreen.storyboard in Resources */,
+				CB59A0AA1CA28D27003AB4B5 /* s00103.jpg in Resources */,
+				CBFB6A651CB28F6000F62F4A /* images.png in Resources */,
+				CBFB6A6B1CB2C87200F62F4A /* line2.png in Resources */,
+				CB59A0A51CA28D27003AB4B5 /* circle120.jpg in Resources */,
+				CB59A0AC1CA28D27003AB4B5 /* straight-lines-6.png in Resources */,
+				CB59A0A81CA28D27003AB4B5 /* plainicon.com-44043-256px.png in Resources */,
+				CB59A0AF1CA28D27003AB4B5 /* ye3TY.png in Resources */,
+				CB9BF7EA1CAA07F000C976E0 /* undo-6.png in Resources */,
+				CB59A0A71CA28D27003AB4B5 /* plainicon.com-44043-16px.png in Resources */,
+				CBFB6A661CB28F6000F62F4A /* save.png in Resources */,
+				CBFB6A6A1CB2C87200F62F4A /* line1.png in Resources */,
+				CB59A0AD1CA28D27003AB4B5 /* triangle120.jpg in Resources */,
 				CB59A0731CA28C53003AB4B5 /* Assets.xcassets in Resources */,
+				CBFB6A6C1CB2C87200F62F4A /* line3.png in Resources */,
+				CBFB6A6E1CB3D80D00F62F4A /* background.png in Resources */,
 				CB59A0711CA28C53003AB4B5 /* Main.storyboard in Resources */,
+				CB59A0AB1CA28D27003AB4B5 /* square120.jpg in Resources */,
+				CB82F8AA1CC71FC800814712 /* GoogleService-Info.plist in Resources */,
+				CB59A0AE1CA28D27003AB4B5 /* y9lT4.png in Resources */,
+				CB59A0A91CA28D27003AB4B5 /* rectangle120.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -268,6 +417,54 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		4BC357844917C2FFBCDFA9F3 /* Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-DrawApp/Pods-DrawApp-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		5FE98086FE2F70F5E9A44B9F /* Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-DrawApp/Pods-DrawApp-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		FACD19D934A0E01493413334 /* Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		CB59A05F1CA28C53003AB4B5 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
@@ -275,7 +472,13 @@
 			files = (
 				CB59A06E1CA28C53003AB4B5 /* ViewController.m in Sources */,
 				CB59A06B1CA28C53003AB4B5 /* AppDelegate.m in Sources */,
+				CB9BF7F31CAA1E4E00C976E0 /* TriangleView.m in Sources */,
+				CB9BF7F61CAA9AD700C976E0 /* line.m in Sources */,
+				CB9BF7E51CA9FC8000C976E0 /* pencil.m in Sources */,
+				CB9BF7ED1CAA151300C976E0 /* SquareView.m in Sources */,
 				CB59A0681CA28C53003AB4B5 /* main.m in Sources */,
+				CB9BF7E81CAA031100C976E0 /* EclipseView.m in Sources */,
+				CB9BF7F01CAA154F00C976E0 /* rectangle.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -414,23 +617,27 @@
 		};
 		CB59A0911CA28C53003AB4B5 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = BBE4995F079CDE631D62E5F5 /* Pods-DrawApp.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = DrawApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = anc.DrawApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
 		CB59A0921CA28C53003AB4B5 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 92586E65CD6F2F46AA7D5203 /* Pods-DrawApp.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = DrawApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = anc.DrawApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
 		};
@@ -501,6 +708,7 @@
 				CB59A0921CA28C53003AB4B5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		CB59A0931CA28C53003AB4B5 /* Build configuration list for PBXNativeTarget "DrawAppTests" */ = {
 			isa = XCConfigurationList;
@@ -509,6 +717,7 @@
 				CB59A0951CA28C53003AB4B5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		CB59A0961CA28C53003AB4B5 /* Build configuration list for PBXNativeTarget "DrawAppUITests" */ = {
 			isa = XCConfigurationList;
@@ -517,6 +726,7 @@
 				CB59A0981CA28C53003AB4B5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
